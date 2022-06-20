@@ -1,7 +1,7 @@
 # Astery UserBot
 * A Powerful Telegram userbot based on Pyrogram.
 
-[![Alphonse/Asterix logo](https://telegra.ph/file/2167f38bae9c10c01ecf0.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB)
+[![Alphonse/Asterix logo](https://te.legra.ph/file/aafbca7dce379fdf9eeaa.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB)
 [![](https://img.shields.io/badge/Asterix-v0.0.1-red)](#)
 [![Stars](https://img.shields.io/github/stars/TeamAsterix/Asterixub?style=flat-square&color=yellow)](https://github.com/TeamAsterix/AsterixUB/stargazers)
 [![Forks](https://img.shields.io/github/forks/TeamAsterix/Asterixub?style=flat-square&color=orange)](https://github.com/TeamAsterix/Asterixub/fork)
@@ -14,7 +14,7 @@
 
 
 
-## How To Deploy Asterix
+## How To Deploy Astery
 
 - [Heroku](#Heroku-Deploy)
 - [Railway](#Railway-Deploy)
