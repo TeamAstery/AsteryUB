@@ -2,15 +2,14 @@
 * A Powerful Telegram userbot based on Pyrogram.
 
 [![Alphonse/Asterix logo](https://te.legra.ph/file/aafbca7dce379fdf9eeaa.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB)
-[![](https://img.shields.io/badge/Asterix-v0.0.1-red)](#)
-[![Stars](https://img.shields.io/github/stars/TeamAsterix/Asterixub?style=flat-square&color=yellow)](https://github.com/TeamAsterix/AsterixUB/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamAsterix/Asterixub?style=flat-square&color=orange)](https://github.com/TeamAsterix/Asterixub/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamAsterix/Asterixub?style=flat-square&color=green)](https://github.com/TeamAsterix/Asterixub/)   
+[![](https://img.shields.io/badge/Astery-v0.0.1-red)](#)
+[![Stars](https://img.shields.io/github/stars/TeamAstery/Asteryub?style=flat-square&color=yellow)](https://github.com/TeamAstery/AsteryUB/stargazers)
+[![Forks](https://img.shields.io/github/forks/TeamAstery/Asteryub?style=flat-square&color=orange)](https://github.com/TeamAstery/Asteryub/fork)
+[![Size](https://img.shields.io/github/repo-size/TeamAstery/Asteryub?style=flat-square&color=green)](https://github.com/TeamAstery/Asteryub/)   
 [![Python](https://img.shields.io/badge/Python-v3.9.10-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamAsterix/Asterixub/graphs/commit-activity)
-[![Contributors](https://img.shields.io/github/contributors/TeamAsterix/Asterixub?style=flat-square&color=green)](https://github.com/TeamAsterix/Asterixub/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamAstery/Asteryub/graphs/commit-activity]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamAsterix/AsterixUB/blob/master/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamAstery/AsteryUB/blob/master/LICENSE)   
 
 
 
