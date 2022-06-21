@@ -2,7 +2,6 @@ from typing import Callable
 
 import pyrogram
 from pyrogram.filters import Filter
-from pyrogram.scaffold import Scaffold
 
 
 class OnCallbackQuery:
