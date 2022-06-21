@@ -1,4 +1,4 @@
-git+https://github.com/TeamAsterix/pyrogram
+git+https://github.com/TeamAstery/pyrogram
 pytube
 telegraph
 heroku3
